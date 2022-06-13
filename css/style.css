@@ -20,3 +20,15 @@ thead   {
 .odd-row    {
     background-color: aquamarine;
 }
+
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+  }
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
