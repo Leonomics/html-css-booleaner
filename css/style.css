@@ -1,0 +1,22 @@
+#head {
+    background-color: #add8e6;
+    background-image: url('../img/pattern.png');
+    background-size: contain;
+    height:200px;
+}
+
+#logo   {
+    position: absolute;
+    left: 20px;
+    width: 400px;
+    height: 220px;
+    top: 10px;
+}
+
+thead   {
+    background-color: aqua;
+}
+
+.odd-row    {
+    background-color: aquamarine;
+}
